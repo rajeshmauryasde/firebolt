@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="firebolt-provider",
+    name="apache-airflow-providers-vertica",
     version="0.0.1",
     author="Rajesh",
     author_email="rajeshmauryasde@gmail.com",
